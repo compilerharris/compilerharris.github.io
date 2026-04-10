@@ -2,7 +2,7 @@
 
 A modern, interactive personal portfolio built using **HTML, Tailwind CSS, and JavaScript**, featuring smooth animations and a premium UI experience.
 
-🌐 **Live Demo:** https://yourusername.github.io/portfolio/
+🌐 **Live Demo:** https://compilerharris.github.io/portfolio/
 📧 **Contact:** [compilerharris@gmail.com](mailto:compilerharris@gmail.com)
 🔗 **LinkedIn:** https://linkedin.com/in/compilerharris
 
@@ -90,7 +90,7 @@ Experienced in:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/compilerharris/portfolio.git
 ```
 
 ### 2. Open Locally
@@ -110,7 +110,7 @@ Simply open `index.html` in your browser.
 4. Your site will be live at:
 
    ```
-   https://yourusername.github.io/portfolio/
+   https://compilerharris.github.io/portfolio/
    ```
 
 ---
