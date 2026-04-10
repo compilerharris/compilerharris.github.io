@@ -2,7 +2,7 @@
 
 A modern, interactive personal portfolio built using **HTML, Tailwind CSS, and JavaScript**, featuring smooth animations and a premium UI experience.
 
-🌐 **Live Demo:** https://compilerharris.github.io/portfolio/
+🌐 **Live Demo:** https://compilerharris.github.io/
 📧 **Contact:** [compilerharris@gmail.com](mailto:compilerharris@gmail.com)
 🔗 **LinkedIn:** https://linkedin.com/in/compilerharris
 
@@ -110,7 +110,7 @@ Simply open `index.html` in your browser.
 4. Your site will be live at:
 
    ```
-   https://compilerharris.github.io/portfolio/
+   https://compilerharris.github.io/
    ```
 
 ---
